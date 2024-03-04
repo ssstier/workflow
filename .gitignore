@@ -1,0 +1,11 @@
+# Python virtual environment
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.pytest_cache/
+
+# Local Terraform directories
+.terraform/
+*.tfstate
+*.tfstate.*
