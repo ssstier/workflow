@@ -1,1 +1,1 @@
-Check out the blog post!!
+This GitHub repository hosts a Jenkins Pipeline project aimed at automating the testing of a Python application with each commit, designed for a specific blog post available at https://www.revogg.com/blog/1-jenkins-pipeline/. The project demonstrates the integration of Jenkins, Terraform, Azure, and Kubernetes to create a CI/CD pipeline, showcasing the setup of Azure infrastructure with Terraform and the use of Kubernetes for Jenkins agent scalability.
